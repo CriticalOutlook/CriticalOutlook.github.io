@@ -68,10 +68,11 @@ a {
 }
 
 .tm-intro {
-  max-width: 1200px;
+  max-width: 1400px;
   width: 100%;
   padding: 55px;
-  margin-right: 0;
+  margin-top:0px;
+  margin-right: auto;
   margin-left: auto;
 }
 
