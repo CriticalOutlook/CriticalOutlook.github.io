@@ -494,6 +494,13 @@ figure.effect-bubba:hover p {
   max-width: 1040px;
 }
 
+.socials-picture {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .tm-w-80 {
   max-width: 80%;
 }
